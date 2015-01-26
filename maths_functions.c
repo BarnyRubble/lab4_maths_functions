@@ -1,5 +1,5 @@
 // This is the line causing issue in the conflict branch
-// This is the second line causing issue in the conflict branch
+// This is the second line causing issue in the conflict branch (3rd attempt b)
 // FILE: maths_functions.c
 
 int add_values (int n1, int n2)
