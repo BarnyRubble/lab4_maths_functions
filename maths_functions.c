@@ -37,3 +37,10 @@ int reverse_mod_values (int n1, int n2)
 	return mod (n2, n1);
 }
 
+int get_minmaxofints (int* int1, int* int2)
+{
+	///input 5 ints...
+	*int1 = min (fiveints);
+	*int2 = max (fiveints);
+}
+
